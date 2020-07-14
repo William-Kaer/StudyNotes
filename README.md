@@ -1,7 +1,7 @@
 # StudyNotes
 
 简介：
-  链接到最棒最全的学习资料
+  没有资源或者资源太多
 
 - vue：[学习笔记](https://github.com/krislinzhao/StudyNotes/tree/master/Vue)
 
